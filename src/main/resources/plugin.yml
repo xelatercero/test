@@ -1,0 +1,9 @@
+name: SpigotPlugin
+version: 1.0
+description: generic description
+author: xelatercero
+
+main: me.xelatercero.test.SpigotPlugin
+
+
+
